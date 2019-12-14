@@ -1,0 +1,1 @@
+A simple, but extensible Python implementation for the VK bot api.
